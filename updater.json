@@ -1,0 +1,9 @@
+{
+  "name": "Don't Work Here",
+  "version": "1.0.0",
+  "author": "MOEWE GbR - Adrian M&ouml;rchen, Markus Weigelt",
+  "download_url": "https://github.com/moewe-io/wordpress-dont-work-here-plugin/archive/stable.zip",
+  "sections": {
+    "description": "This plugins permanently shows a prominent message for all users within the administration."
+  }
+}
